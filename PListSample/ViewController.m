@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  PListSample
+//  PListSample git反映テスト
 //
 //  Created by fujita taisuke on 2012/08/01.
 //  Copyright (c) 2012年 Revolution 9. All rights reserved.
